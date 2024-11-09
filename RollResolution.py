@@ -4,6 +4,7 @@ import math
 import copy
 import time
 
+#test comment
 def getOptimalIndex(target,list):
     if len(list)<=0:
         return -1,0
